@@ -8,6 +8,7 @@
 [![GitHub release](https://img.shields.io/github/release/kubernetes-sigs/external-dns.svg)](https://github.com/kubernetes-sigs/external-dns/releases)
 [![go-doc](https://godoc.org/github.com/kubernetes-sigs/external-dns?status.svg)](https://godoc.org/github.com/kubernetes-sigs/external-dns)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kubernetes-sigs/external-dns)](https://goreportcard.com/report/github.com/kubernetes-sigs/external-dns)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjkremser%2Fexternal-dns.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjkremser%2Fexternal-dns?ref=badge_shield)
 
 ExternalDNS synchronizes exposed Kubernetes Services and Ingresses with DNS providers.
 
@@ -348,3 +349,7 @@ ExternalDNS is an effort to unify the following similar projects in order to bri
 
 * A full demo on GKE Kubernetes. See [How-to Kubernetes with DNS management (ssl-manager pre-req)](https://medium.com/@jpantjsoha/how-to-kubernetes-with-dns-management-for-gitops-31239ea75d8d)
 * Run external-dns on GKE with workload identity. See [Kubernetes, ingress-nginx, cert-manager & external-dns](https://blog.atomist.com/kubernetes-ingress-nginx-cert-manager-external-dns/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjkremser%2Fexternal-dns.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjkremser%2Fexternal-dns?ref=badge_large)
